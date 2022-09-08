@@ -1,0 +1,1 @@
+int k;main(i){k*=i-10&&main(getchar())&putchar(i-1?i:10);}
